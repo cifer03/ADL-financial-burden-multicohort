@@ -1,0 +1,9 @@
+source,outcome,model,n,estimate,lower95,upper95,decimals,label
+charls,budget_10%,primary,1133,1.8,-14.5,18.2,1,CHARLS · Change in income gap (>10% budget)
+charls,budget_25%,primary,1133,-3.0,-19.0,13.0,1,CHARLS · Change in income gap (>25% budget)
+elsa,capsacc4,unweighted,306,4.82,-1.01,10.64,2,ELSA · Income gap in unmet GP access
+elsa,capsacc5,unweighted,306,0.62,-3.89,5.14,2,ELSA · Income gap in unmet dental access
+khp,first_panel,primary,17915,1.48,-0.99,3.96,2,KHP · Income-by-onset contrast (first panel)
+khp,second_panel,primary,15366,1.39,-1.28,4.06,2,KHP · Income-by-onset contrast (second panel)
+elsa,capsacc4,followup_weighted,306,3.39,-2.07,9.02,2,ELSA · Weighted GP access
+elsa,capsacc5,followup_weighted,306,-0.58,-5.49,3.78,2,ELSA · Weighted dental access

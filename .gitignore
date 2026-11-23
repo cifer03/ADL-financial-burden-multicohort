@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+*.dta
+*.pkl
+*.zip
+work*/
+check/
+klosa_work/
+sharework/
+review/
+rerun/
